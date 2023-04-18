@@ -22,7 +22,7 @@
 <br></br>:white_check_mark: <b>interOfficeAPP</b>
 <br></br>
 	
-- 🔧  I am currently working on the application that is being prepared for a REAL client. For this reason, the code will be public until a certain point.
+🔧  I am currently working on the application that is being prepared for a REAL client. For this reason, the code will be public until a certain point.
 
 &emsp; The application features:
 
@@ -53,11 +53,11 @@
 
 &emsp; The application features:
 
-&emsp; - user -> buy item, add items to cart, order history, user profile, edit user profile, sign up 
+ - user -> buy item, add items to cart, order history, user profile, edit user profile, sign up 
 
-&emsp; - admin -> edit item information and quantity, add or delete items, add and delete sale category, change user account status, delete or ban user
+ - admin -> edit item information and quantity, add or delete items, add and delete sale category, change user account status, delete or ban user
 
-&emsp; - super-admin -> delete or add admin account
+ - super-admin -> delete or add admin account
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies that are used for this application***
