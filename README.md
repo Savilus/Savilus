@@ -4,7 +4,7 @@
 </div>
 
 
- <div align="center">  :arrow_down_small:  Check out my main projects repository:  :arrow_down_small: </div>
+ <div align="center">  :arrow_down_small:  Check out my main projects:  :arrow_down_small: </div>
 <br></br>
  
 
