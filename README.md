@@ -9,10 +9,10 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/Savilus/online-shop.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savilus-hash&repo=online-shop" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=savilus&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/mkolodziejczyk92/interofficeapp.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savilus-hash&repo=interofficeapp" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkolodziejczyk92-hash&repo=interofficeapp" alt="GitHub Stats" />
     </a>
   </p>
 </div>
