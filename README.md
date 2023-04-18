@@ -4,7 +4,7 @@
 </div>
 
 
- <div align="center">  :arrow_down_small:  __Check out my main projects repository:__ :arrow_down_small: </div>
+ <div align="center">  :arrow_down_small:  Check out my main projects repository:  :arrow_down_small: </div>
  <div>/<div>
  
 
@@ -18,6 +18,31 @@
     </a>
   </p>
 </div>
+	
+- 🔧  I am currently working on the application that is being prepared for a REAL client. For this reason, the code will be public until a certain point.
+
+&emsp; The application features:
+  
+&emsp; :small_blue_diamond: customer base management
+
+&emsp; :small_blue_diamond: sales management
+
+&emsp; :small_blue_diamond: automatic preparation of contracts
+
+&emsp; :small_blue_diamond: automatic preparation of assembley documents
+
+&emsp; :small_blue_diamond: time management of the salespeople
+
+&emsp; :small_blue_diamond: maintinig a calendar and managing meetings
+
+&emsp; :small_blue_diamond: Technologies that are used for this application
+<div align="center">
+	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
+	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" /></code>
+	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot" /></code>
+	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png" alt="Vaadin" title="Vaadin" /></code>
+	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
+</div>	
 
 <details>
   <summary><h3>☎️ contact me</h3></summary>
