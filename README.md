@@ -25,18 +25,18 @@
 - 🔧  I am currently working on the application that is being prepared for a REAL client. For this reason, the code will be public until a certain point.
 
 &emsp; The application features:
-  
-&emsp; - customer base management
 
-&emsp; - sales management
+- customer base management
 
-&emsp; - automatic preparation of contracts
+- sales management
 
-&emsp; - automatic preparation of assembley documents
+- automatic preparation of contracts
 
-&emsp; - time management of the salespeople
+- automatic preparation of assembley documents
 
-&emsp; - maintinig a calendar and managing meetings
+- time management of the salespeople
+
+- maintinig a calendar and managing meetings
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies that are used for this application***
 <div align="center">
