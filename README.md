@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary><h3>☎️ contact me</h3></summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -21,28 +21,6 @@
   </samp>
 </div>
 </details>
-
-<details>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">You can reach me by:</h2>
-    <p align="center">
-      <br/>
-
-      <a href="https://www.linkedin.com/in/jakub-łanoszka" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:jakub.lanoszka@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
-
 
 <details open>
   <summary><h3>💻 GitHub Profile Stats</h3></summary>
