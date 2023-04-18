@@ -5,8 +5,10 @@
 
 
  <div align="center">  :arrow_down_small:  __Check out my main projects repository:__ :arrow_down_small: </div>
+ 
+ 
 
-<div>
+<div align="center">
   <p>
     <a href="https://github.com/Savilus/online-shop.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savilus&repo=online-shop&cache_seconds=86400&theme=default_repocard" alt="GitHub Stats" />
