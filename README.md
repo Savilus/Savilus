@@ -8,10 +8,10 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/Savilus/online-shop">
+    <a href="https://github.com/Savilus/online-shop.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savilus-hash&repo=online-shop" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/mkolodziejczyk92/interofficeapp">
+    <a href="https://github.com/mkolodziejczyk92/interofficeapp.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savilus-hash&repo=interofficeapp" alt="GitHub Stats" />
     </a>
   </p>
