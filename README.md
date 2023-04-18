@@ -31,7 +31,7 @@ __Check out my GitHub repository:__
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
-  <p align="center">
+  <p align="center"> 
       <br>
     </p>
   </samp>
