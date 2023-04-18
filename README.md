@@ -12,7 +12,7 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savilus&repo=online-shop&cache_seconds=86400&theme=default_repocard" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/mkolodziejczyk92/interofficeapp.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savilus&repo=interOfficeApp&cache_seconds=86400&theme=default_repocard" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkolodziejczyk92&repo=interOfficeApp&cache_seconds=86400&theme=default_repocard" alt="GitHub Stats" />
     </a>
   </p>
 </div>
