@@ -4,7 +4,7 @@
 </div>
 
 
-__Check out my GitHub repository:__
+ <div align="center">  :arrow_down_small:  __Check out my main projects repository:__ :arrow_down_small: </div>
 
 <div>
   <p>
