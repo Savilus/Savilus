@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, My name is Jakub</h1>
-<h4 align="center">everyone on my GitHub repository , see my <a href="" target="_blank">resume</a> for more</h4>
+<h4 align="center">welcome everyone on my GitHub repository , see my <a href="" target="_blank">resume</a> for more</h4>
 </div>
 
 
