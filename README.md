@@ -22,7 +22,7 @@
 <br></br>:white_check_mark: <b>interOfficeAPP</b>
 <br></br>
 	
-🔧  I am currently working on the application that is being prepared for a REAL client.
+🔧  I am currently working on the interOffice application
 
 &emsp; The application features:
 
