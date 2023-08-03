@@ -97,18 +97,21 @@
 </details>
 
 
+
 <details open>
   <summary><h3>💻 GitHub Profile Stats</h3></summary>
         <p align="center">
           <a href="https://github.com/Savilus">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Savilus&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Savilus&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Savilus&theme=gruvbox&hide_border=true" />	
+	  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savilus&layout=compact&theme=gruvbox&hide_border=true"/>
           </a>
        </p>
      <br>
      </samp>
   </div>    
 </details>
+
 <!--
 **Savilus/Savilus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
