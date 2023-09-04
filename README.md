@@ -16,14 +16,50 @@
     <a href="https://github.com/Savilus/interOfficeApp.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkolodziejczyk92&repo=interOfficeApp&cache_seconds=86400&theme=default_repocard" alt="GitHub Stats" />
     </a>
+     <a href="https://github.com/Savilus/anonymous-santa.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savilus&repo=anonymous-santa&cache_seconds=86400&theme=default_repocard" alt="GitHub Stats" />
+    </a>
+     </a>
+     <a href="https://github.com/mkolodziejczyk92/anonymous-santa-fe.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkolodziejczyk92&repo=anonymous-santa-fe&cache_seconds=86400&theme=default_repocard" alt="GitHub Stats" />
+    </a>
+	  
   </p>
+</div>
+
+<br></br>:white_check_mark: <b>Anonymous Santa</b>
+
+&emsp; &emsp; The application that is ready to use if you want to organize Santa Party.
+
+&emsp; The application features:
+- create and log in into your account
+- manage your Santa Claus events
+- add participants to your events
+- sending invitations using the Google api
+- sending informations to participants that draw is done
+- draw gifts for users
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies that are used for this application***
+<div align="center">
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
 
 <br></br>:white_check_mark: <b>interOfficeAPP</b>
 <br></br>
+&emsp;&emsp; This project is fully functioning web application that is an CRM designed for a company involved in the sale and installation of doors and windows.
 	
-🔧  I am currently working on the interOffice application
-
 &emsp; The application features:
 
 - customer base management
@@ -53,11 +89,21 @@
 
 &emsp; The application features:
 
- - user -> buy item, add items to cart, order history, user profile, edit user profile, sign up 
+### User
+ -	buy item add items to cart
+ -	order history
+ - 	user profile
+ -	edit user profile, sign up 
 
- - admin -> edit item information and quantity, add or delete items, add and delete sale category, change user account status, delete or ban user
+### Admin 
+-	edit item information and quantity
+-	add or delete items
+-	add and delete sale category
+-	change user account status
+-	delete or ban user
 
- - super-admin -> delete or add admin account
+### Super Admin 
+-	delete or add admin account
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies that are used for this application***
