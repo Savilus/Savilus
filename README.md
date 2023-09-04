@@ -39,6 +39,9 @@
 - sending informations to participants that draw is done
 - draw gifts for users
 
+-  backend repository: ❗ https://github.com/Savilus/anonymous-santa ❗
+-  frontend repository: ❗ https://github.com/mkolodziejczyk92/anonymous-santa-fe ❗
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies that are used for this application***
 <div align="center">
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code>
