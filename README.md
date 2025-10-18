@@ -1,31 +1,97 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, My name is Jakub</h1>
-<h4 align="center">welcome everyone on my GitHub repository</h4>
+<h1 align="center">Hey, I'm Jakub! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h4 align="center">Welcome to my profile!</h4>
 </div>
 
 
- <div align="center">  :arrow_down_small:  Check out my main projects:  :arrow_down_small: </div>
+ <div align="center">  :arrow_down_small:  Check out my main projects  :arrow_down_small: </div>
 <br></br>
- 
 
-<div align="center">
-  <p>
-    <a href="https://github.com/Savilus/online-shop.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savilus&repo=online-shop&cache_seconds=86400&theme=default_repocard" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Savilus/interOfficeApp.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkolodziejczyk92&repo=interOfficeApp&cache_seconds=86400&theme=default_repocard" alt="GitHub Stats" />
-    </a>
-     <a href="https://github.com/Savilus/anonymous-santa.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savilus&repo=anonymous-santa&cache_seconds=86400&theme=default_repocard" alt="GitHub Stats" />
-    </a>
-     </a>
-     <a href="https://github.com/mkolodziejczyk92/anonymous-santa-fe.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkolodziejczyk92&repo=anonymous-santa-fe&cache_seconds=86400&theme=default_repocard" alt="GitHub Stats" />
-    </a>
-	  
-  </p>
+ <div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Blue Boy Game</h3>
+				<div align="center">  
+					<a href='https://github.com/Savilus/blue-boy-game.git' >
+						<img src="surely_insured_mockup.png" alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/Savilus/blue-boy-game" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+					</p>
+					<p><strong>JAVA</strong></p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">InterOffice</h3>
+				<div align="center" >  
+					<a href='https://github.com/Savilus/interOfficeApp' target="_blank">
+						<img src="https://raw.githubusercontent.com/mkolodziejczyk92/interofficeapp/refs/heads/main/interOffice%20ss/interOffice%20clients%20grid.png" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/Savilus/interOfficeApp" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>	
+					</p>
+					<div align="center">
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
+				</div>
+				<br>
+        </tr>
+	    <tr>
+            <td width="50%">
+                <h3 align="center">Anonymous Santa</h3>
+                <div align="center">  
+                    <a href='https://github.com/Savilus/anonymous-santa' target="_blank">
+                        <img src="https://raw.githubusercontent.com/Savilus/anonymous-santa/refs/heads/master/anonymousSanta%20ss/santa%20frtont%20page.png" alt="project 4" width="85%" height="40%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/Savilus/anonymous-santa" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+						<a href="https://github.com/mkolodziejczyk92/anonymous-santa-fe" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a> 
+                    </p>
+                    <p><strong>IN progress</strong></p>
+                </div>	
+            </td>
+            <td width="50%">
+                <h3 align="center">Online Shop</h3>
+                <div align="center" >  
+                    <a href='https://github.com/Savilus/online-shop' target="_blank">
+                        <img src="https://github.com/Savilus/online-shop/blob/43ac56e618c92348f36fc88abe694e303285c096/ss/buy%20items.png" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/Savilus/online-shop" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                    </p>
+                    <p><strong>IN progress</strong></p>
+                </div>
+            </td>
+        </tr>
+	</table>
+ </div>
 
 <br></br>:white_check_mark: <b>Anonymous Santa</b>
 
