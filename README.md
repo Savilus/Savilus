@@ -20,7 +20,7 @@
 					<br>
 					<br>
 					<p>
-						Defeat monsters and explore the dungeons! See what the blue boy can do.
+						Defeat monsters and explore the dungeons! See what the Blue Boy can do.
 					</p>
 					<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 				</div>
@@ -110,16 +110,16 @@
  </div>
 				
 <details>
-  <summary><h3>☎️ contact me</h3></summary>
+  <summary><h3>:telephone: contact me :mailbox:</h3></summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/jakub-łanoszka" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/łanoszka-jakub" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mailto:jakub.lanoszka@gmail.com" target="blank"><img align="center"
+      <a href="mailto:jakublanoszka@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
